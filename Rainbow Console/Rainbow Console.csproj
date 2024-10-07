@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8BC85E0-F6F1-4937-9805-A9024DCA02C3}</ProjectGuid>
+    <ProjectGuid>{AD93189B-1149-4942-A3B4-EB020EE3E3D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Playground</RootNamespace>
-    <AssemblyName>Playground</AssemblyName>
+    <RootNamespace>Rainbow_Console</RootNamespace>
+    <AssemblyName>Rainbow_Console</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
